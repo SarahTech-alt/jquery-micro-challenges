@@ -4,7 +4,7 @@ Hey everyone! Here are a series of jQuery challenges that already have code buil
 
 Inside this repo, you will find a 'challenges' folder. Work your way through each file within that folder. Complete each of the files. Make the changes, save the file, and move onto the next file. Do this until you have completed each of the files.
 
-**Do not change anything in the body of the html.** These are jQuery challenges. The only thing that should change in the html is which file to source.
+**Do not change anything in the body of the html.** These are jQuery challenges. The only thing that should change in the html is which file to source. Put your code where it says `YOUR CODE HERE`.
 
 ## Base Mode
 
@@ -15,4 +15,3 @@ Inside this repo, you will find a 'challenges' folder. Work your way through eac
 
 - challenge3
 - challenge4
-- challenge5

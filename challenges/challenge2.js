@@ -1,8 +1,3 @@
-/*
-    Add an event listener to the Button that is created with the
-    appendDom, that when you click the button, 'meow' is console.logged.
-*/
-
 $(document).ready(readyNow);
 
 function readyNow(){
@@ -11,16 +6,16 @@ function readyNow(){
 }
 
 function appendDom(){
-  // Create a header
-  let header = $('<h1>Click Event - Console Log</h1>');
+  let header = $('<h1>Console Log</h1>');
   $('.container').append(header);
 
   $('.container').append('<div></div>');
   let $el = $('.container').children().last();
-  $el.append('<button>Meow</button>');
+  $el.append('<button id="meowButton">Meow</button>');
 }
 
 function addClickHandlers() {
   // YOUR CODE HERE
-
+  // Add an event listener to the Meow Button
+  // The listener should log 'Meeeooow' when the button is clicked
 }

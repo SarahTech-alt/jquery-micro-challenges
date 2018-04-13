@@ -1,13 +1,3 @@
-/*
-  HARD MODE: Display all of the pets on the page.
-
-  PRO MODE: Add an input field that allows users
-  to add new pets from the index page.
-
-  PRO MODE #2: Add a button that clears out the
-  list of pets.
-*/
-
 class Pet {
   constructor(nameIn, typeIn, ageIn) {
     this.name = nameIn;
@@ -31,7 +21,6 @@ function readyNow(){
 }
 
 function appendDom(){
-  // Create a header
   let header = $('<h1>List of Pets - Loop and Append</h1>');
   $('.container').append(header);
 
@@ -44,7 +33,11 @@ function appendDom(){
   $('.container').append(table);
 
   // YOUR CODE HERE
+  // Remember, small steps!
 
   // Display each of the pets on the DOM.
 
+  // Add an input field that allows users to add new pets from the index page.
+  
+  // Add a button that clears out the list of pets.
 }

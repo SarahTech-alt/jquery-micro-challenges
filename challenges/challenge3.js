@@ -1,7 +1,3 @@
-/*
-  Appending to the DOM. Take input from an input field
-  and display it on the DOM.
-*/
 $(document).ready(readyNow);
 
 function readyNow(){
@@ -9,17 +5,13 @@ function readyNow(){
   addClickHandlers();
 }
 
-// You should not need to modify this function
 function appendDom(){
-  // Create a header
   let header = $('<h1>Student List - Text Input</h1>');
   $('.container').append(header);
 
-  // Create a text input
   let inputBox = $('<input type="text" id="studentName" />');
   $('.container').append(inputBox);
 
-  // Create a submit button
   let submitButton = $('<button id="submitButton">Submit</button>');
   $('.container').append(submitButton);
 
