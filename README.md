@@ -6,13 +6,10 @@ Inside this repo, you will find a 'challenges' folder. Work your way through eac
 
 **Do not change anything in the body of the html.** These are jQuery challenges. The only thing that should change in the html is which file to source. Put your code where it says `YOUR CODE HERE`.
 
-## Part 1
+## Base
 
 - challenge1
 - challenge2
-
-## Part 2
-
 - challenge3
 
 ## Stretch Goals
