@@ -6,7 +6,7 @@ function readyNow(){
 }
 
 function appendDom(){
-  let header = $('<h1>Student List - Text Input</h1>');
+  let header = $('<h1>Challenge 160</h1>');
   $('.container').append(header);
 
   let inputBox = $('<input type="text" id="studentName" />');

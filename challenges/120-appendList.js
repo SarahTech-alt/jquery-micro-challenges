@@ -8,13 +8,11 @@ function readyNow(){
 
 function appendBulletItem(){
   // YOUR CODE HERE
-  let header = $('<h1>Append to DOM</h1>');
+  let header = $('<h1>Challenge 120</h1>');
   $('.container').append(header);
-  let ulStart = $('<ul id="myList">');
-  $('.container').append(ulStart);
-  let ulEnd = $('</ul>');
-  $('.container').append(ulEnd);
+  let ul = $('<ul id="myList"></ul>');
+  $('.container').append(ul);
 
-  // // Loop through a list and append all the values to the DOM.
+  // Loop through a list and append all the values to the DOM.
 }
 

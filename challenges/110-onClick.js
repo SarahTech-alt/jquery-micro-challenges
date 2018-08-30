@@ -8,7 +8,7 @@ function readyNow(){
 
 function incrementOnClick(){
   // YOUR CODE HERE
-  let header = $('<h1>Append to DOM</h1>');
+  let header = $('<h1>Challenge 110</h1>');
   $('.container').append(header);
 
   let button = $('<button id="incrementButton">Click Me</button>');

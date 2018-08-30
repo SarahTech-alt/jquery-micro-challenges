@@ -5,7 +5,7 @@ function readyNow(){
 }
 
 function appendDom(){
-  let header = $('<h1>Append to DOM</h1>');
+  let header = $('<h1>Challange 140</h1>');
   $('.container').append(header);
 
   // YOUR CODE HERE

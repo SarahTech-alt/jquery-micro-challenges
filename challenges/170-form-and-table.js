@@ -21,7 +21,7 @@ function readyNow(){
 }
 
 function appendDom(){
-  let header = $('<h1>List of Pets - Loop and Append</h1>');
+  let header = $('<h1>Challenge 170</h1>');
   $('.container').append(header);
 
   let table = $('<table></table>');
