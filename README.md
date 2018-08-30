@@ -8,10 +8,14 @@ Inside this repo, you will find a 'challenges' folder. Work your way through eac
 
 ## Base
 
-- challenge1
-- challenge2
+- challenge 100
+- challenge 110
+- challenge 120
+- challenge 130
 
 ## Stretch Goals
 
-- challenge3
-- challenge4
+- challenge 140
+- challenge 150
+- challenge 160
+- challenge 170
