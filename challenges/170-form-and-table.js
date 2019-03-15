@@ -1,16 +1,9 @@
-class Pet {
-  constructor(nameIn, typeIn, ageIn) {
-    this.name = nameIn;
-    this.age = ageIn;
-    this.type = typeIn;
-  }
-}
 
 // Feel free to add more data here
-const petOne = new Pet('Charlie', 'dog', 6);
-const petTwo = new Pet('Thorin', 'rabbit', 4);
-const petThree = new Pet('Cedar', 'dog', 7);
-const petFour = new Pet('Juniper', 'cat', 3);
+const petOne = {name: 'Charlie', type: 'dog', age: 6};
+const petTwo = {name: 'Thorin', type: 'rabbit', age: 4};
+const petThree = {name: 'Cedar', type: 'dog', age: 7};
+const petFour = {name: 'Juniper', type: 'cat', age: 3};
 
 const pets = [petOne, petTwo, petThree, petFour];
 
