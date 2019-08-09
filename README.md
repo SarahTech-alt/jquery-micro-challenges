@@ -1,15 +1,4 @@
-# jQuery Micro Challenges
-
-
-### Objectives
-
-- Practice Read and Write skills
-- Solidify jQuery knowledge
-  - events
-  - appending
-  - removing
-  - forms (stretch)
-  
+# jQuery Micro Challenges  
   
 Hey everyone! Here are a series of jQuery challenges that already have code built out, but are missing some component, or some component is incorrect. Follow the instructions to see if you and your peer can figure out the correction.
 
@@ -30,3 +19,14 @@ Inside this repo, you will find a 'challenges' folder. Work your way through eac
 - challenge 150
 - challenge 160
 - challenge 170
+
+---
+
+### Assignment Objectives
+
+- Practice Read and Write skills
+- Solidify jQuery knowledge
+  - events
+  - appending
+  - removing
+  - forms (stretch)
