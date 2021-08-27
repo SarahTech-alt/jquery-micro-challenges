@@ -12,7 +12,11 @@ function appendBulletItem(){
   $('.container').append(header);
   let ul = $('<ul id="myList"></ul>');
   $('.container').append(ul);
-
+  for (let animals in myArray){
+    let myAnimals = myArray[animals];
+    
   // Loop through a list and append all the values to the DOM.
+    $('.container').append('<li>' + myAnimals + '</li>');
+}
 }
 
