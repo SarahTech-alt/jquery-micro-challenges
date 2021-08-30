@@ -18,4 +18,10 @@ function addClickHandlers() {
   // YOUR CODE HERE
   // Add an event listener to the Meow Button
   // The listener should log 'Meeeooow' when the button is clicked
+  $('.container').on('click', '#meowButton', logMeow);
+}
+
+function logMeow(){
+  console.log('Meeeooow');
+  
 }

@@ -7,6 +7,8 @@ function readyNow(){
 function appendDom(){
   let header = $('<h1>Challange 140</h1>');
   $('.container').append(header);
+  $('.container').append(`<p>Sarah</p>
+ <p>Saint Paul</p>`)
 
   // YOUR CODE HERE
   // Add a DIV to the Container Class (a new DIV inside of the DIV that already exists).
